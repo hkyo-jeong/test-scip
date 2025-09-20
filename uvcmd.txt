@@ -1,0 +1,5 @@
+uv init
+uv venv
+uv venv --clear
+uv add [package]
+uv sync
